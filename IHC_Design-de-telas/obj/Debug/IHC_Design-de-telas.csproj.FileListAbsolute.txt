@@ -1,0 +1,10 @@
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\bin\Debug\IHC_Design-de-telas.exe.config
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\bin\Debug\IHC_Design-de-telas.exe
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\bin\Debug\IHC_Design-de-telas.pdb
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\obj\Debug\IHC_Design-de-telas.csproj.AssemblyReference.cache
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\obj\Debug\IHC_Design_de_telas.Form1.resources
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\obj\Debug\IHC_Design_de_telas.Properties.Resources.resources
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\obj\Debug\IHC_Design-de-telas.csproj.GenerateResource.cache
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\obj\Debug\IHC_Design-de-telas.csproj.CoreCompileInputs.cache
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\obj\Debug\IHC_Design-de-telas.exe
+C:\Users\gugab\OneDrive\Documentos\GitHub\IHC\IHC_Design-de-telas\obj\Debug\IHC_Design-de-telas.pdb
